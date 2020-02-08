@@ -1,0 +1,25 @@
+{
+  "name": "koders-api-mongoose",
+  "version": "1.0.0",
+  "description": "koders api using mongoose and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kodemia",
+    "express",
+    "api",
+    "mongoose"
+  ],
+  "author": "@devcharles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  }
+}
